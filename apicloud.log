@@ -1,0 +1,816 @@
+2016 07 31  07:01:02 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 07 31  07:03:30 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 07 31  08:08:27 ******************************begin CompressWidgetCommand******************************
+2016 07 31  08:08:27 CompressWidgetCommand: Begin to zip /var/www/html/sublime-wspace/HelloApp to /var/www/html/sublime-wspace/HelloApp.zip ...
+2016 07 31  08:08:27 CompressWidgetCommand: Zip file /index.html.
+2016 07 31  08:08:27 CompressWidgetCommand: Zip file /config.xml.
+2016 07 31  08:08:27 CompressWidgetCommand: Zip file /css/api.css.
+2016 07 31  08:08:27 CompressWidgetCommand: Zip file /launch/launch1080x1920.png.
+2016 07 31  08:08:27 CompressWidgetCommand: Zip file /html/main.html.
+2016 07 31  08:08:27 CompressWidgetCommand: Zip file /script/api.js.
+2016 07 31  08:08:27 CompressWidgetCommand: Zip file /image/loading_more.gif.
+2016 07 31  08:08:27 CompressWidgetCommand: Zip file /icon/icon150x150.png.
+2016 07 31  08:08:27 CompressWidgetCommand: Zip folder succeed!
+2016 07 31  08:08:27 ******************************CompressWidgetCommand complete******************************
+2016 07 31  08:15:09 ******************************begin build andriod******************************
+2016 07 31  08:15:09 buildApk: begin buildApk
+2016 07 31  08:15:09 checkBasicInfo: current dir is /home/ibstelix/.config/sublime-text-3/Packages/APICloudPackage
+2016 07 31  08:15:09 checkBasicInfo: current platform is linux
+2016 07 31  08:15:09 checkBasicInfo: the platform is not supported
+2016 07 31  08:15:09 ******************************build complete******************************
+2016 07 31  08:15:30 ******************************begin build andriod******************************
+2016 07 31  08:15:30 buildApk: begin buildApk
+2016 07 31  08:15:30 checkBasicInfo: current dir is /home/ibstelix/.config/sublime-text-3/Packages/APICloudPackage
+2016 07 31  08:15:30 checkBasicInfo: current platform is linux
+2016 07 31  08:15:30 checkBasicInfo: the platform is not supported
+2016 07 31  08:15:30 ******************************build complete******************************
+2016 07 31  08:15:46 ******************************begin build andriod******************************
+2016 07 31  08:15:46 buildApk: begin buildApk
+2016 07 31  08:15:46 checkBasicInfo: current dir is /home/ibstelix/.config/sublime-text-3/Packages/APICloudPackage
+2016 07 31  08:15:46 checkBasicInfo: current platform is linux
+2016 07 31  08:15:46 checkBasicInfo: the platform is not supported
+2016 07 31  08:15:46 ******************************build complete******************************
+2016 07 31  08:16:17 ******************************begin CompressWidgetCommand******************************
+2016 07 31  08:16:17 CompressWidgetCommand: Begin to zip /var/www/html/sublime-wspace/HelloApp to /var/www/html/sublime-wspace/HelloApp.zip ...
+2016 07 31  08:16:19 CompressWidgetCommand: /var/www/html/sublime-wspace/HelloApp.zip has already exist
+2016 07 31  08:16:19 CompressWidgetCommand: Zip file /index.html.
+2016 07 31  08:16:19 CompressWidgetCommand: Zip file /config.xml.
+2016 07 31  08:16:19 CompressWidgetCommand: Zip file /css/api.css.
+2016 07 31  08:16:19 CompressWidgetCommand: Zip file /launch/launch1080x1920.png.
+2016 07 31  08:16:19 CompressWidgetCommand: Zip file /html/main.html.
+2016 07 31  08:16:19 CompressWidgetCommand: Zip file /script/api.js.
+2016 07 31  08:16:19 CompressWidgetCommand: Zip file /image/loading_more.gif.
+2016 07 31  08:16:19 CompressWidgetCommand: Zip file /icon/icon150x150.png.
+2016 07 31  08:16:19 CompressWidgetCommand: Zip folder succeed!
+2016 07 31  08:16:19 ******************************CompressWidgetCommand complete******************************
+2016 07 31  08:18:59 ******************************begin android sync******************************
+2016 07 31  08:18:59 sync dir is /var/www/html/sublime-wspace/HelloApp
+2016 07 31  08:19:05 checkBasicInfo: current dir is /home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader
+2016 07 31  08:19:05 checkBasicInfo: the platform is not support
+2016 07 31  08:19:05 load: failed to checkBasicInfo.
+2016 07 31  08:19:05 ******************************android sync complete******************************
+2016 07 31  08:23:44 ******************************begin android sync******************************
+2016 07 31  08:23:44 sync dir is /var/www/html/sublime-wspace/HelloApp
+2016 07 31  08:23:45 checkBasicInfo: current dir is /home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader
+2016 07 31  08:23:45 checkBasicInfo: the platform is not support
+2016 07 31  08:23:45 load: failed to checkBasicInfo.
+2016 07 31  08:23:45 ******************************android sync complete******************************
+2016 07 31  08:27:59 ******************************begin android sync******************************
+2016 07 31  08:27:59 sync dir is /var/www/html/sublime-wspace/HelloApp
+2016 07 31  08:28:01 checkBasicInfo: current dir is /home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader
+2016 07 31  08:28:01 checkBasicInfo: the platform is not support
+2016 07 31  08:28:01 load: failed to checkBasicInfo.
+2016 07 31  08:28:01 ******************************android sync complete******************************
+2016 07 31  08:30:47 StartWifysyncAppCommand cmd : "/home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/APICloudWiFiSync.exe" -start
+2016 07 31  08:31:03 StopWifysyncAppCommand cmd : "/home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/APICloudWiFiSync.exe" -stop
+2016 07 31  08:39:19 ******************************begin android sync******************************
+2016 07 31  08:39:19 sync dir is /var/www/html/sublime-wspace/HelloApp
+2016 07 31  08:39:22 checkBasicInfo: current dir is /home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader
+2016 07 31  08:39:22 checkBasicInfo: the platform is not support
+2016 07 31  08:39:22 load: failed to checkBasicInfo.
+2016 07 31  08:39:22 ******************************android sync complete******************************
+2016 07 31  08:39:48 ******************************begin android sync******************************
+2016 07 31  08:39:48 sync dir is /var/www/html/sublime-wspace/HelloApp
+2016 07 31  08:39:50 checkBasicInfo: current dir is /home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader
+2016 07 31  08:39:50 checkBasicInfo: the platform is not support
+2016 07 31  08:39:50 load: failed to checkBasicInfo.
+2016 07 31  08:39:50 ******************************android sync complete******************************
+2016 07 31  08:42:20 ******************************begin android sync******************************
+2016 07 31  08:42:20 sync dir is /var/www/html/sublime-wspace/HelloApp
+2016 07 31  08:42:21 checkBasicInfo: current dir is /home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader
+2016 07 31  08:42:21 checkBasicInfo: the platform is not support
+2016 07 31  08:42:21 load: failed to checkBasicInfo.
+2016 07 31  08:42:21 ******************************android sync complete******************************
+2016 07 31  08:44:10 ******************************begin android sync******************************
+2016 07 31  08:44:10 sync dir is /var/www/html/sublime-wspace/HelloApp
+2016 07 31  08:44:12 checkBasicInfo: current dir is /home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader
+2016 07 31  08:44:12 checkBasicInfo: the platform is not support
+2016 07 31  08:44:12 load: failed to checkBasicInfo.
+2016 07 31  08:44:12 ******************************android sync complete******************************
+2016 07 31  08:46:05 ******************************begin android sync******************************
+2016 07 31  08:46:05 sync dir is /var/www/html/sublime-wspace/HelloApp
+2016 07 31  08:46:09 checkBasicInfo: current dir is /home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader
+2016 07 31  08:46:09 checkBasicInfo: the platform is not support
+2016 07 31  08:46:09 load: failed to checkBasicInfo.
+2016 07 31  08:46:09 ******************************android sync complete******************************
+2016 07 31  08:54:33 ******************************begin android sync******************************
+2016 07 31  08:54:33 sync dir is /var/www/html/sublime-wspace/HelloApp
+2016 07 31  08:54:35 checkBasicInfo: current dir is /home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader
+2016 07 31  08:54:35 checkBasicInfo: adbCmd is "/usr/bin/adb"
+2016 07 31  08:54:35 checkBasicInfo: config content is {'cmdLogType': '', 'packageName': 'com.apicloud.apploader', 'version': '1.1.75', 'ignore': ['.svn', '.git']}
+2016 07 31  08:54:35 begin getDeviceListCmd
+2016 07 31  08:54:35 getDeviceListCmd: cmd is "/usr/bin/adb" devices
+2016 07 31  08:54:35 getDeviceListCmd: output is 
+List of devices attached 
+HT243W123625	device
+
+
+2016 07 31  08:54:35 getDeviceListCmd: deviceList is ['HT243W123625']
+2016 07 31  08:54:35 begin getAppId: srcPath is /var/www/html/sublime-wspace/HelloApp
+2016 07 31  08:54:35 getAppId: appId is A6912436669280
+2016 07 31  08:54:35 begin getLoaderType
+2016 07 31  08:54:35 getLoaderType: appIdPath is /home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/custom-loader/A6912436669280/load.conf
+2016 07 31  08:54:35 getLoaderType: path not exiest, will use default appLoader
+2016 07 31  08:54:35 load: appId is A6912436669280
+2016 07 31  08:54:35 load: begin to sync machine HT243W123625
+2016 07 31  08:54:35 begin pushDirOrFileCmd from /var/www/html/sublime-wspace/HelloApp for appId A6912436669280
+2016 07 31  08:54:35 pushDirOrFileCmd: pushCmd is "/usr/bin/adb" -s HT243W123625 push "/var/www/html/sublime-wspace/tmp-apicloud-folder" /sdcard/UZMap/wgt/A6912436669280
+2016 07 31  08:54:35 pushDirOrFileCmd: outputMsg is 
+2016 07 31  08:54:35 pushDirOrFileCmd: pushDirOrFileCmd success!
+2016 07 31  08:54:35 begin pushStartInfo for appId A6912436669280
+2016 07 31  08:54:35 pushStartInfo: srcPath is "/home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/startInfo.txt"startInfo.txt
+2016 07 31  08:54:35 pushStartInfo: pushCmd is "/usr/bin/adb" -s HT243W123625 push "/home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/startInfo.txt" /sdcard/UZMap/A6965066952332/
+2016 07 31  08:54:35 pushStartInfo: outputMsg is 
+2016 07 31  08:54:35 pushStartInfo: pushStartInfo success!
+2016 07 31  08:54:35 begin getApploaderVersionCmd for device HT243W123625
+2016 07 31  08:54:35 getApploaderVersionCmd: cmd is "/usr/bin/adb" -s HT243W123625 shell dumpsys package com.apicloud.apploader
+2016 07 31  08:54:36 load: no appLoader found on the devices
+2016 07 31  08:54:36 loader: the isNeedInstall flag is True
+2016 07 31  08:54:36 begin installAppLoaderCmd
+2016 07 31  08:54:36 installAppLoaderCmd: cmd is "/usr/bin/adb" -s HT243W123625 install "/home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/apicloud-loader/load.apk"
+2016 07 31  08:54:36 installCmd: outputMsg is 
+2016 07 31  08:54:36 begin getApploaderVersionCmd for device HT243W123625
+2016 07 31  08:54:36 getApploaderVersionCmd: cmd is "/usr/bin/adb" -s HT243W123625 shell dumpsys package com.apicloud.apploader
+2016 07 31  08:54:36 installAppLoaderCmd: failed to run installAppLoader!
+2016 07 31  08:54:36 load: failed to excute installAppLoaderCmd
+2016 07 31  08:54:36 ******************************android sync complete******************************
+2016 07 31  09:59:26 ******************************begin android sync******************************
+2016 07 31  09:59:26 sync dir is /var/www/html/sublime-wspace/HelloApp
+2016 07 31  09:59:26 checkBasicInfo: current dir is /home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader
+2016 07 31  09:59:26 checkBasicInfo: adbCmd is "/usr/bin/adb"
+2016 07 31  09:59:26 checkBasicInfo: config content is {'cmdLogType': '', 'packageName': 'com.apicloud.apploader', 'version': '1.1.75', 'ignore': ['.svn', '.git']}
+2016 07 31  09:59:26 begin getDeviceListCmd
+2016 07 31  09:59:26 getDeviceListCmd: cmd is "/usr/bin/adb" devices
+2016 07 31  09:59:26 getDeviceListCmd: output is 
+List of devices attached 
+HT243W123625	device
+
+
+2016 07 31  09:59:26 getDeviceListCmd: deviceList is ['HT243W123625']
+2016 07 31  09:59:26 begin getAppId: srcPath is /var/www/html/sublime-wspace/HelloApp
+2016 07 31  09:59:26 getAppId: appId is A6912436669280
+2016 07 31  09:59:26 begin getLoaderType
+2016 07 31  09:59:26 getLoaderType: appIdPath is /home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/custom-loader/A6912436669280/load.conf
+2016 07 31  09:59:26 getLoaderType: path not exiest, will use default appLoader
+2016 07 31  09:59:26 load: appId is A6912436669280
+2016 07 31  09:59:26 load: begin to sync machine HT243W123625
+2016 07 31  09:59:26 begin pushDirOrFileCmd from /var/www/html/sublime-wspace/HelloApp for appId A6912436669280
+2016 07 31  09:59:26 pushDirOrFileCmd: pushCmd is "/usr/bin/adb" -s HT243W123625 push "/var/www/html/sublime-wspace/tmp-apicloud-folder" /sdcard/UZMap/wgt/A6912436669280
+2016 07 31  09:59:26 pushDirOrFileCmd: outputMsg is 
+2016 07 31  09:59:26 pushDirOrFileCmd: pushDirOrFileCmd success!
+2016 07 31  09:59:26 begin pushStartInfo for appId A6912436669280
+2016 07 31  09:59:26 pushStartInfo: srcPath is "/home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/startInfo.txt"startInfo.txt
+2016 07 31  09:59:26 pushStartInfo: pushCmd is "/usr/bin/adb" -s HT243W123625 push "/home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/startInfo.txt" /sdcard/UZMap/A6965066952332/
+2016 07 31  09:59:26 pushStartInfo: outputMsg is 
+2016 07 31  09:59:26 pushStartInfo: pushStartInfo success!
+2016 07 31  09:59:26 begin getApploaderVersionCmd for device HT243W123625
+2016 07 31  09:59:26 getApploaderVersionCmd: cmd is "/usr/bin/adb" -s HT243W123625 shell dumpsys package com.apicloud.apploader
+2016 07 31  09:59:26 load: no appLoader found on the devices
+2016 07 31  09:59:26 loader: the isNeedInstall flag is True
+2016 07 31  09:59:26 begin installAppLoaderCmd
+2016 07 31  09:59:26 installAppLoaderCmd: cmd is "/usr/bin/adb" -s HT243W123625 install "/home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/apicloud-loader/load.apk"
+2016 07 31  09:59:26 installCmd: outputMsg is 
+2016 07 31  09:59:26 begin getApploaderVersionCmd for device HT243W123625
+2016 07 31  09:59:26 getApploaderVersionCmd: cmd is "/usr/bin/adb" -s HT243W123625 shell dumpsys package com.apicloud.apploader
+2016 07 31  09:59:27 installAppLoaderCmd: failed to run installAppLoader!
+2016 07 31  09:59:27 load: failed to excute installAppLoaderCmd
+2016 07 31  09:59:27 ******************************android sync complete******************************
+2016 07 31  09:59:50 ******************************begin android sync******************************
+2016 07 31  09:59:50 sync dir is /var/www/html/sublime-wspace/HelloApp
+2016 07 31  09:59:50 checkBasicInfo: current dir is /home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader
+2016 07 31  09:59:50 checkBasicInfo: adbCmd is "/usr/bin/adb"
+2016 07 31  09:59:50 checkBasicInfo: config content is {'cmdLogType': '', 'packageName': 'com.apicloud.apploader', 'version': '1.1.75', 'ignore': ['.svn', '.git']}
+2016 07 31  09:59:50 begin getDeviceListCmd
+2016 07 31  09:59:50 getDeviceListCmd: cmd is "/usr/bin/adb" devices
+2016 07 31  09:59:50 getDeviceListCmd: output is 
+List of devices attached 
+HT243W123625	device
+
+
+2016 07 31  09:59:50 getDeviceListCmd: deviceList is ['HT243W123625']
+2016 07 31  09:59:50 begin getAppId: srcPath is /var/www/html/sublime-wspace/HelloApp
+2016 07 31  09:59:50 getAppId: appId is A6912436669280
+2016 07 31  09:59:50 begin getLoaderType
+2016 07 31  09:59:50 getLoaderType: appIdPath is /home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/custom-loader/A6912436669280/load.conf
+2016 07 31  09:59:50 getLoaderType: path not exiest, will use default appLoader
+2016 07 31  09:59:50 load: appId is A6912436669280
+2016 07 31  09:59:50 load: begin to sync machine HT243W123625
+2016 07 31  09:59:50 begin pushDirOrFileCmd from /var/www/html/sublime-wspace/HelloApp for appId A6912436669280
+2016 07 31  09:59:50 pushDirOrFileCmd: pushCmd is "/usr/bin/adb" -s HT243W123625 push "/var/www/html/sublime-wspace/tmp-apicloud-folder" /sdcard/UZMap/wgt/A6912436669280
+2016 07 31  09:59:50 pushDirOrFileCmd: outputMsg is 
+2016 07 31  09:59:50 pushDirOrFileCmd: pushDirOrFileCmd success!
+2016 07 31  09:59:50 begin pushStartInfo for appId A6912436669280
+2016 07 31  09:59:50 pushStartInfo: srcPath is "/home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/startInfo.txt"startInfo.txt
+2016 07 31  09:59:50 pushStartInfo: pushCmd is "/usr/bin/adb" -s HT243W123625 push "/home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/startInfo.txt" /sdcard/UZMap/A6965066952332/
+2016 07 31  09:59:50 pushStartInfo: outputMsg is 
+2016 07 31  09:59:50 pushStartInfo: pushStartInfo success!
+2016 07 31  09:59:50 begin getApploaderVersionCmd for device HT243W123625
+2016 07 31  09:59:50 getApploaderVersionCmd: cmd is "/usr/bin/adb" -s HT243W123625 shell dumpsys package com.apicloud.apploader
+2016 07 31  09:59:50 load: no appLoader found on the devices
+2016 07 31  09:59:50 loader: the isNeedInstall flag is True
+2016 07 31  09:59:50 begin installAppLoaderCmd
+2016 07 31  09:59:50 installAppLoaderCmd: cmd is "/usr/bin/adb" -s HT243W123625 install "/home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/apicloud-loader/load.apk"
+2016 07 31  09:59:50 installCmd: outputMsg is 
+2016 07 31  09:59:50 begin getApploaderVersionCmd for device HT243W123625
+2016 07 31  09:59:50 getApploaderVersionCmd: cmd is "/usr/bin/adb" -s HT243W123625 shell dumpsys package com.apicloud.apploader
+2016 07 31  09:59:50 installAppLoaderCmd: failed to run installAppLoader!
+2016 07 31  09:59:50 load: failed to excute installAppLoaderCmd
+2016 07 31  09:59:50 ******************************android sync complete******************************
+2016 07 31  10:00:26 ******************************begin android sync******************************
+2016 07 31  10:00:26 sync dir is /var/www/html/sublime-wspace/HelloApp
+2016 07 31  10:00:26 checkBasicInfo: current dir is /home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader
+2016 07 31  10:00:26 checkBasicInfo: adbCmd is "/usr/bin/adb"
+2016 07 31  10:00:26 checkBasicInfo: config content is {'cmdLogType': '', 'packageName': 'com.apicloud.apploader', 'version': '1.1.75', 'ignore': ['.svn', '.git']}
+2016 07 31  10:00:26 begin getDeviceListCmd
+2016 07 31  10:00:26 getDeviceListCmd: cmd is "/usr/bin/adb" devices
+2016 07 31  10:00:26 getDeviceListCmd: output is 
+List of devices attached 
+HT243W123625	device
+
+
+2016 07 31  10:00:26 getDeviceListCmd: deviceList is ['HT243W123625']
+2016 07 31  10:00:26 begin getAppId: srcPath is /var/www/html/sublime-wspace/HelloApp
+2016 07 31  10:00:26 getAppId: appId is A6912436669280
+2016 07 31  10:00:26 begin getLoaderType
+2016 07 31  10:00:26 getLoaderType: appIdPath is /home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/custom-loader/A6912436669280/load.conf
+2016 07 31  10:00:26 getLoaderType: path not exiest, will use default appLoader
+2016 07 31  10:00:26 load: appId is A6912436669280
+2016 07 31  10:00:26 load: begin to sync machine HT243W123625
+2016 07 31  10:00:26 begin pushDirOrFileCmd from /var/www/html/sublime-wspace/HelloApp for appId A6912436669280
+2016 07 31  10:00:26 pushDirOrFileCmd: pushCmd is "/usr/bin/adb" -s HT243W123625 push "/var/www/html/sublime-wspace/tmp-apicloud-folder" /sdcard/UZMap/wgt/A6912436669280
+2016 07 31  10:00:26 pushDirOrFileCmd: outputMsg is 
+2016 07 31  10:00:26 pushDirOrFileCmd: pushDirOrFileCmd success!
+2016 07 31  10:00:26 begin pushStartInfo for appId A6912436669280
+2016 07 31  10:00:26 pushStartInfo: srcPath is "/home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/startInfo.txt"startInfo.txt
+2016 07 31  10:00:26 pushStartInfo: pushCmd is "/usr/bin/adb" -s HT243W123625 push "/home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/startInfo.txt" /sdcard/UZMap/A6965066952332/
+2016 07 31  10:00:26 pushStartInfo: outputMsg is 
+2016 07 31  10:00:26 pushStartInfo: pushStartInfo success!
+2016 07 31  10:00:26 begin getApploaderVersionCmd for device HT243W123625
+2016 07 31  10:00:26 getApploaderVersionCmd: cmd is "/usr/bin/adb" -s HT243W123625 shell dumpsys package com.apicloud.apploader
+2016 07 31  10:00:26 load: no appLoader found on the devices
+2016 07 31  10:00:26 loader: the isNeedInstall flag is True
+2016 07 31  10:00:26 begin installAppLoaderCmd
+2016 07 31  10:00:26 installAppLoaderCmd: cmd is "/usr/bin/adb" -s HT243W123625 install "/home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/apicloud-loader/load.apk"
+2016 07 31  10:00:26 installCmd: outputMsg is 
+2016 07 31  10:00:26 begin getApploaderVersionCmd for device HT243W123625
+2016 07 31  10:00:26 getApploaderVersionCmd: cmd is "/usr/bin/adb" -s HT243W123625 shell dumpsys package com.apicloud.apploader
+2016 07 31  10:00:27 installAppLoaderCmd: failed to run installAppLoader!
+2016 07 31  10:00:27 load: failed to excute installAppLoaderCmd
+2016 07 31  10:00:27 ******************************android sync complete******************************
+2016 07 31  10:45:46 ******************************begin android sync******************************
+2016 07 31  10:45:46 sync dir is /var/www/html/sublime-wspace/HelloApp
+2016 07 31  10:45:49 checkBasicInfo: current dir is /home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader
+2016 07 31  10:45:49 checkBasicInfo: adbCmd is "/usr/bin/adb"
+2016 07 31  10:45:49 checkBasicInfo: config content is {'cmdLogType': '', 'packageName': 'com.apicloud.apploader', 'version': '1.1.75', 'ignore': ['.svn', '.git']}
+2016 07 31  10:45:49 begin getDeviceListCmd
+2016 07 31  10:45:49 getDeviceListCmd: cmd is "/usr/bin/adb" devices
+2016 07 31  10:45:49 getDeviceListCmd: output is 
+List of devices attached 
+HT243W123625	device
+
+
+2016 07 31  10:45:49 getDeviceListCmd: deviceList is ['HT243W123625']
+2016 07 31  10:45:49 begin getAppId: srcPath is /var/www/html/sublime-wspace/HelloApp
+2016 07 31  10:45:49 getAppId: appId is A6912436669280
+2016 07 31  10:45:49 begin getLoaderType
+2016 07 31  10:45:49 getLoaderType: appIdPath is /home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/custom-loader/A6912436669280/load.conf
+2016 07 31  10:45:49 getLoaderType: path not exiest, will use default appLoader
+2016 07 31  10:45:49 load: appId is A6912436669280
+2016 07 31  10:45:49 load: begin to sync machine HT243W123625
+2016 07 31  10:45:49 begin pushDirOrFileCmd from /var/www/html/sublime-wspace/HelloApp for appId A6912436669280
+2016 07 31  10:45:49 pushDirOrFileCmd: pushCmd is "/usr/bin/adb" -s HT243W123625 push "/var/www/html/sublime-wspace/tmp-apicloud-folder" /sdcard/UZMap/wgt/A6912436669280
+2016 07 31  10:45:58 pushDirOrFileCmd: outputMsg is b''b'push: /var/www/html/sublime-wspace/tmp-apicloud-folder/css/api.css -> /sdcard/UZMap/wgt/A6912436669280/css/api.css\npush: /var/www/html/sublime-wspace/tmp-apicloud-folder/launch/launch1080x1920.png -> /sdcard/UZMap/wgt/A6912436669280/launch/launch1080x1920.png\npush: /var/www/html/sublime-wspace/tmp-apicloud-folder/html/main.html -> /sdcard/UZMap/wgt/A6912436669280/html/main.html\npush: /var/www/html/sublime-wspace/tmp-apicloud-folder/script/api.js -> /sdcard/UZMap/wgt/A6912436669280/script/api.js\npush: /var/www/html/sublime-wspace/tmp-apicloud-folder/image/loading_more.gif -> /sdcard/UZMap/wgt/A6912436669280/image/loading_more.gif\npush: /var/www/html/sublime-wspace/tmp-apicloud-folder/icon/icon150x150.png -> /sdcard/UZMap/wgt/A6912436669280/icon/icon150x150.png\npush: /var/www/html/sublime-wspace/tmp-apicloud-folder/config.xml -> /sdcard/UZMap/wgt/A6912436669280/config.xml\npush: /var/www/html/sublime-wspace/tmp-apicloud-folder/index.html -> /sdcard/UZMap/wgt/A6912436669280/index.html\n8 files pushed. 0 files skipped.\n8 KB/s (82418 bytes in 9.603s)\n'
+2016 07 31  10:45:58 pushDirOrFileCmd: pushDirOrFileCmd success!
+2016 07 31  10:45:58 begin pushStartInfo for appId A6912436669280
+2016 07 31  10:45:58 pushStartInfo: srcPath is "/home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/startInfo.txt"startInfo.txt
+2016 07 31  10:45:58 pushStartInfo: pushCmd is "/usr/bin/adb" -s HT243W123625 push "/home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/startInfo.txt" /sdcard/UZMap/A6965066952332/
+2016 07 31  10:46:00 pushStartInfo: outputMsg is b''b"failed to copy '/home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/startInfo.txt' to '/sdcard/UZMap/A6965066952332/': Is a directory\n"
+2016 07 31  10:46:00 pushStartInfo: pushStartInfo success!
+2016 07 31  10:46:00 begin getApploaderVersionCmd for device HT243W123625
+2016 07 31  10:46:00 getApploaderVersionCmd: cmd is "/usr/bin/adb" -s HT243W123625 shell dumpsys package com.apicloud.apploader
+2016 07 31  10:46:00 load: no appLoader found on the devices
+2016 07 31  10:46:00 loader: the isNeedInstall flag is True
+2016 07 31  10:46:00 begin installAppLoaderCmd
+2016 07 31  10:46:00 installAppLoaderCmd: cmd is "/usr/bin/adb" -s HT243W123625 install "/home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/apicloud-loader/load.apk"
+2016 07 31  10:52:11 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 07 31  11:03:49 ******************************begin android sync******************************
+2016 07 31  11:03:49 sync dir is /var/www/html/sublime-wspace/HelloApp
+2016 07 31  11:03:51 checkBasicInfo: current dir is /home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader
+2016 07 31  11:03:51 checkBasicInfo: adbCmd is "/usr/bin/adb"
+2016 07 31  11:03:51 checkBasicInfo: config content is {'ignore': ['.svn', '.git'], 'cmdLogType': '', 'packageName': 'com.apicloud.apploader', 'version': '1.1.75'}
+2016 07 31  11:03:51 begin getDeviceListCmd
+2016 07 31  11:03:51 getDeviceListCmd: cmd is "/usr/bin/adb" devices
+2016 07 31  11:03:51 getDeviceListCmd: output is 
+List of devices attached 
+HT243W123625	device
+
+
+2016 07 31  11:03:51 getDeviceListCmd: deviceList is ['HT243W123625']
+2016 07 31  11:03:51 begin getAppId: srcPath is /var/www/html/sublime-wspace/HelloApp
+2016 07 31  11:03:51 getAppId: appId is A6912436669280
+2016 07 31  11:03:51 begin getLoaderType
+2016 07 31  11:03:51 getLoaderType: appIdPath is /home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/custom-loader/A6912436669280/load.conf
+2016 07 31  11:03:51 getLoaderType: path not exiest, will use default appLoader
+2016 07 31  11:03:51 load: appId is A6912436669280
+2016 07 31  11:03:51 load: begin to sync machine HT243W123625
+2016 07 31  11:03:51 begin pushDirOrFileCmd from /var/www/html/sublime-wspace/HelloApp for appId A6912436669280
+2016 07 31  11:03:51 pushDirOrFileCmd: pushCmd is "/usr/bin/adb" -s HT243W123625 push "/var/www/html/sublime-wspace/tmp-apicloud-folder" /sdcard/UZMap/wgt/A6912436669280
+2016 07 31  11:03:51 pushDirOrFileCmd: outputMsg is 
+2016 07 31  11:03:51 pushDirOrFileCmd: pushDirOrFileCmd success!
+2016 07 31  11:03:51 begin pushStartInfo for appId A6912436669280
+2016 07 31  11:03:51 pushStartInfo: srcPath is "/home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/startInfo.txt"startInfo.txt
+2016 07 31  11:03:51 pushStartInfo: pushCmd is "/usr/bin/adb" -s HT243W123625 push "/home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/startInfo.txt" /sdcard/UZMap/A6965066952332/
+2016 07 31  11:03:51 pushStartInfo: outputMsg is 
+2016 07 31  11:03:51 pushStartInfo: pushStartInfo success!
+2016 07 31  11:03:51 begin getApploaderVersionCmd for device HT243W123625
+2016 07 31  11:03:51 getApploaderVersionCmd: cmd is "/usr/bin/adb" -s HT243W123625 shell dumpsys package com.apicloud.apploader
+2016 07 31  11:03:51 load: no appLoader found on the devices
+2016 07 31  11:03:51 loader: the isNeedInstall flag is True
+2016 07 31  11:03:51 begin installAppLoaderCmd
+2016 07 31  11:03:51 installAppLoaderCmd: cmd is "/usr/bin/adb" -s HT243W123625 install "/home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/apicloud-loader/load.apk"
+2016 07 31  11:03:51 installCmd: outputMsg is 
+2016 07 31  11:03:51 begin getApploaderVersionCmd for device HT243W123625
+2016 07 31  11:03:51 getApploaderVersionCmd: cmd is "/usr/bin/adb" -s HT243W123625 shell dumpsys package com.apicloud.apploader
+2016 07 31  11:03:52 installAppLoaderCmd: failed to run installAppLoader!
+2016 07 31  11:03:52 load: failed to excute installAppLoaderCmd
+2016 07 31  11:03:52 ******************************android sync complete******************************
+2016 07 31  11:12:39 ******************************begin android sync******************************
+2016 07 31  11:12:39 sync dir is /var/www/html/sublime-wspace/HelloApp
+2016 07 31  11:12:40 checkBasicInfo: current dir is /home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader
+2016 07 31  11:12:40 checkBasicInfo: adbCmd is "/usr/bin/adb"
+2016 07 31  11:12:40 checkBasicInfo: config content is {'ignore': ['.svn', '.git'], 'cmdLogType': '', 'packageName': 'com.apicloud.apploader', 'version': '1.1.75'}
+2016 07 31  11:12:40 begin getDeviceListCmd
+2016 07 31  11:12:40 getDeviceListCmd: cmd is "/usr/bin/adb" devices
+2016 07 31  11:12:41 getDeviceListCmd: output is 
+List of devices attached 
+HT243W123625	device
+
+
+2016 07 31  11:12:41 getDeviceListCmd: deviceList is ['HT243W123625']
+2016 07 31  11:12:41 begin getAppId: srcPath is /var/www/html/sublime-wspace/HelloApp
+2016 07 31  11:12:41 getAppId: appId is A6912436669280
+2016 07 31  11:12:41 begin getLoaderType
+2016 07 31  11:12:41 getLoaderType: appIdPath is /home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/custom-loader/A6912436669280/load.conf
+2016 07 31  11:12:41 getLoaderType: path not exiest, will use default appLoader
+2016 07 31  11:12:41 load: appId is A6912436669280
+2016 07 31  11:12:41 load: begin to sync machine HT243W123625
+2016 07 31  11:12:41 begin pushDirOrFileCmd from /var/www/html/sublime-wspace/HelloApp for appId A6912436669280
+2016 07 31  11:12:41 pushDirOrFileCmd: pushCmd is "/usr/bin/adb" -s HT243W123625 push "/var/www/html/sublime-wspace/tmp-apicloud-folder" /sdcard/UZMap/wgt/A6912436669280
+2016 07 31  11:12:41 run: exception happened as below
+2016 07 31  11:12:41 Traceback (most recent call last):
+  File "/home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/apicloud-load.py", line 180, in run
+    self.load(dirs[0])
+  File "/home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/apicloud-load.py", line 455, in load
+    if not self.pushDirOrFileCmd(serialNo,srcPath,appId):
+  File "/home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/apicloud-load.py", line 306, in pushDirOrFileCmd
+    (rtnCode,stdout,stderr)=runShellCommand(pushCmd,self.__cmdLogType)
+  File "/home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/apicloud-load.py", line 109, in runShellCommand
+    print('caller name:' + calframe[1][3] +' - runShellCommand: the platform is not support')
+NameError: global name 'calframe' is not defined
+
+2016 07 31  11:12:41 ******************************android sync complete******************************
+2016 07 31  11:21:09 ******************************begin android sync******************************
+2016 07 31  11:21:09 sync dir is /var/www/html/sublime-wspace/HelloApp
+2016 07 31  11:21:12 checkBasicInfo: current dir is /home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader
+2016 07 31  11:21:12 checkBasicInfo: adbCmd is "/usr/bin/adb"
+2016 07 31  11:21:12 checkBasicInfo: config content is {'ignore': ['.svn', '.git'], 'cmdLogType': '', 'packageName': 'com.apicloud.apploader', 'version': '1.1.75'}
+2016 07 31  11:21:12 begin getDeviceListCmd
+2016 07 31  11:21:12 getDeviceListCmd: cmd is "/usr/bin/adb" devices
+2016 07 31  11:21:12 getDeviceListCmd: output is 
+List of devices attached 
+HT243W123625	device
+
+
+2016 07 31  11:21:12 getDeviceListCmd: deviceList is ['HT243W123625']
+2016 07 31  11:21:12 begin getAppId: srcPath is /var/www/html/sublime-wspace/HelloApp
+2016 07 31  11:21:12 getAppId: appId is A6912436669280
+2016 07 31  11:21:12 begin getLoaderType
+2016 07 31  11:21:12 getLoaderType: appIdPath is /home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/custom-loader/A6912436669280/load.conf
+2016 07 31  11:21:12 getLoaderType: path not exiest, will use default appLoader
+2016 07 31  11:21:12 load: appId is A6912436669280
+2016 07 31  11:21:12 load: begin to sync machine HT243W123625
+2016 07 31  11:21:12 begin pushDirOrFileCmd from /var/www/html/sublime-wspace/HelloApp for appId A6912436669280
+2016 07 31  11:21:12 pushDirOrFileCmd: pushCmd is "/usr/bin/adb" -s HT243W123625 push "/var/www/html/sublime-wspace/tmp-apicloud-folder" /sdcard/UZMap/wgt/A6912436669280
+2016 07 31  11:21:12 pushDirOrFileCmd: outputMsg is 
+2016 07 31  11:21:12 pushDirOrFileCmd: pushDirOrFileCmd success!
+2016 07 31  11:21:12 begin pushStartInfo for appId A6912436669280
+2016 07 31  11:21:12 pushStartInfo: srcPath is "/home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/startInfo.txt"startInfo.txt
+2016 07 31  11:21:12 pushStartInfo: pushCmd is "/usr/bin/adb" -s HT243W123625 push "/home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/startInfo.txt" /sdcard/UZMap/A6965066952332/
+2016 07 31  11:21:12 pushStartInfo: outputMsg is 
+2016 07 31  11:21:12 pushStartInfo: pushStartInfo success!
+2016 07 31  11:21:12 begin getApploaderVersionCmd for device HT243W123625
+2016 07 31  11:21:12 getApploaderVersionCmd: cmd is "/usr/bin/adb" -s HT243W123625 shell dumpsys package com.apicloud.apploader
+2016 07 31  11:21:12 load: no appLoader found on the devices
+2016 07 31  11:21:12 loader: the isNeedInstall flag is True
+2016 07 31  11:21:12 begin installAppLoaderCmd
+2016 07 31  11:21:12 installAppLoaderCmd: cmd is "/usr/bin/adb" -s HT243W123625 install "/home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/apicloud-loader/load.apk"
+2016 07 31  11:21:12 installCmd: outputMsg is 
+2016 07 31  11:21:12 begin getApploaderVersionCmd for device HT243W123625
+2016 07 31  11:21:12 getApploaderVersionCmd: cmd is "/usr/bin/adb" -s HT243W123625 shell dumpsys package com.apicloud.apploader
+2016 07 31  11:21:12 installAppLoaderCmd: failed to run installAppLoader!
+2016 07 31  11:21:12 load: failed to excute installAppLoaderCmd
+2016 07 31  11:21:12 ******************************android sync complete******************************
+2016 07 31  11:21:47 ******************************begin android sync******************************
+2016 07 31  11:21:47 sync dir is /var/www/html/sublime-wspace/HelloApp
+2016 07 31  11:21:48 checkBasicInfo: current dir is /home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader
+2016 07 31  11:21:48 checkBasicInfo: adbCmd is "/usr/bin/adb"
+2016 07 31  11:21:48 checkBasicInfo: config content is {'ignore': ['.svn', '.git'], 'cmdLogType': '', 'packageName': 'com.apicloud.apploader', 'version': '1.1.75'}
+2016 07 31  11:21:48 begin getDeviceListCmd
+2016 07 31  11:21:48 getDeviceListCmd: cmd is "/usr/bin/adb" devices
+2016 07 31  11:21:48 getDeviceListCmd: output is 
+List of devices attached 
+HT243W123625	device
+
+
+2016 07 31  11:21:48 getDeviceListCmd: deviceList is ['HT243W123625']
+2016 07 31  11:21:48 begin getAppId: srcPath is /var/www/html/sublime-wspace/HelloApp
+2016 07 31  11:21:48 getAppId: appId is A6912436669280
+2016 07 31  11:21:48 begin getLoaderType
+2016 07 31  11:21:48 getLoaderType: appIdPath is /home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/custom-loader/A6912436669280/load.conf
+2016 07 31  11:21:48 getLoaderType: path not exiest, will use default appLoader
+2016 07 31  11:21:48 load: appId is A6912436669280
+2016 07 31  11:21:48 load: begin to sync machine HT243W123625
+2016 07 31  11:21:48 begin pushDirOrFileCmd from /var/www/html/sublime-wspace/HelloApp for appId A6912436669280
+2016 07 31  11:21:48 pushDirOrFileCmd: pushCmd is "/usr/bin/adb" -s HT243W123625 push "/var/www/html/sublime-wspace/tmp-apicloud-folder" /sdcard/UZMap/wgt/A6912436669280
+2016 07 31  11:21:48 pushDirOrFileCmd: outputMsg is 
+2016 07 31  11:21:48 pushDirOrFileCmd: pushDirOrFileCmd success!
+2016 07 31  11:21:48 begin pushStartInfo for appId A6912436669280
+2016 07 31  11:21:48 pushStartInfo: srcPath is "/home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/startInfo.txt"startInfo.txt
+2016 07 31  11:21:48 pushStartInfo: pushCmd is "/usr/bin/adb" -s HT243W123625 push "/home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/startInfo.txt" /sdcard/UZMap/A6965066952332/
+2016 07 31  11:21:48 pushStartInfo: outputMsg is 
+2016 07 31  11:21:48 pushStartInfo: pushStartInfo success!
+2016 07 31  11:21:48 begin getApploaderVersionCmd for device HT243W123625
+2016 07 31  11:21:48 getApploaderVersionCmd: cmd is "/usr/bin/adb" -s HT243W123625 shell dumpsys package com.apicloud.apploader
+2016 07 31  11:21:48 load: no appLoader found on the devices
+2016 07 31  11:21:48 loader: the isNeedInstall flag is True
+2016 07 31  11:21:48 begin installAppLoaderCmd
+2016 07 31  11:21:48 installAppLoaderCmd: cmd is "/usr/bin/adb" -s HT243W123625 install "/home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/apicloud-loader/load.apk"
+2016 07 31  11:21:48 installCmd: outputMsg is 
+2016 07 31  11:21:48 begin getApploaderVersionCmd for device HT243W123625
+2016 07 31  11:21:48 getApploaderVersionCmd: cmd is "/usr/bin/adb" -s HT243W123625 shell dumpsys package com.apicloud.apploader
+2016 07 31  11:21:49 installAppLoaderCmd: failed to run installAppLoader!
+2016 07 31  11:21:49 load: failed to excute installAppLoaderCmd
+2016 07 31  11:21:49 ******************************android sync complete******************************
+2016 07 31  11:33:31 ******************************begin android sync******************************
+2016 07 31  11:33:31 sync dir is /var/www/html/sublime-wspace/HelloApp
+2016 07 31  11:33:32 checkBasicInfo: current dir is /home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader
+2016 07 31  11:33:32 checkBasicInfo: adbCmd is "/usr/bin/adb"
+2016 07 31  11:33:32 checkBasicInfo: config content is {'ignore': ['.svn', '.git'], 'cmdLogType': '', 'packageName': 'com.apicloud.apploader', 'version': '1.1.75'}
+2016 07 31  11:33:32 begin getDeviceListCmd
+2016 07 31  11:33:32 getDeviceListCmd: cmd is "/usr/bin/adb" devices
+2016 07 31  11:33:32 getDeviceListCmd: output is 
+List of devices attached 
+HT243W123625	device
+
+
+2016 07 31  11:33:32 getDeviceListCmd: deviceList is ['HT243W123625']
+2016 07 31  11:33:32 begin getAppId: srcPath is /var/www/html/sublime-wspace/HelloApp
+2016 07 31  11:33:32 getAppId: appId is A6912436669280
+2016 07 31  11:33:32 begin getLoaderType
+2016 07 31  11:33:32 getLoaderType: appIdPath is /home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/custom-loader/A6912436669280/load.conf
+2016 07 31  11:33:32 getLoaderType: path not exiest, will use default appLoader
+2016 07 31  11:33:32 load: appId is A6912436669280
+2016 07 31  11:33:32 load: begin to sync machine HT243W123625
+2016 07 31  11:33:32 begin pushDirOrFileCmd from /var/www/html/sublime-wspace/HelloApp for appId A6912436669280
+2016 07 31  11:33:32 pushDirOrFileCmd: pushCmd is "/usr/bin/adb" -s HT243W123625 push "/var/www/html/sublime-wspace/tmp-apicloud-folder" /sdcard/UZMap/wgt/A6912436669280
+2016 07 31  11:33:32 pushDirOrFileCmd: outputMsg is 
+2016 07 31  11:33:32 pushDirOrFileCmd: pushDirOrFileCmd success!
+2016 07 31  11:33:32 begin pushStartInfo for appId A6912436669280
+2016 07 31  11:33:32 pushStartInfo: srcPath is "/home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/startInfo.txt"startInfo.txt
+2016 07 31  11:33:32 pushStartInfo: pushCmd is "/usr/bin/adb" -s HT243W123625 push "/home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/startInfo.txt" /sdcard/UZMap/A6965066952332/
+2016 07 31  11:33:32 pushStartInfo: outputMsg is 
+2016 07 31  11:33:32 pushStartInfo: pushStartInfo success!
+2016 07 31  11:33:32 begin getApploaderVersionCmd for device HT243W123625
+2016 07 31  11:33:32 getApploaderVersionCmd: cmd is "/usr/bin/adb" -s HT243W123625 shell dumpsys package com.apicloud.apploader
+2016 07 31  11:33:32 load: no appLoader found on the devices
+2016 07 31  11:33:32 loader: the isNeedInstall flag is True
+2016 07 31  11:33:32 begin installAppLoaderCmd
+2016 07 31  11:33:32 installAppLoaderCmd: cmd is "/usr/bin/adb" -s HT243W123625 install "/home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/apicloud-loader/load.apk"
+2016 07 31  11:33:32 installCmd: outputMsg is 
+2016 07 31  11:33:32 begin getApploaderVersionCmd for device HT243W123625
+2016 07 31  11:33:32 getApploaderVersionCmd: cmd is "/usr/bin/adb" -s HT243W123625 shell dumpsys package com.apicloud.apploader
+2016 07 31  11:33:33 installAppLoaderCmd: failed to run installAppLoader!
+2016 07 31  11:33:33 load: failed to excute installAppLoaderCmd
+2016 07 31  11:33:33 ******************************android sync complete******************************
+2016 07 31  11:42:41 ******************************begin android sync******************************
+2016 07 31  11:42:41 sync dir is /var/www/html/sublime-wspace/HelloApp
+2016 07 31  11:42:43 checkBasicInfo: current dir is /home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader
+2016 07 31  11:42:43 checkBasicInfo: adbCmd is "/usr/bin/adb"
+2016 07 31  11:42:43 checkBasicInfo: config content is {'ignore': ['.svn', '.git'], 'cmdLogType': '', 'packageName': 'com.apicloud.apploader', 'version': '1.1.75'}
+2016 07 31  11:42:43 begin getDeviceListCmd
+2016 07 31  11:42:43 getDeviceListCmd: cmd is "/usr/bin/adb" devices
+2016 07 31  11:42:43 getDeviceListCmd: output is 
+List of devices attached 
+HT243W123625	device
+
+
+2016 07 31  11:42:43 getDeviceListCmd: deviceList is ['HT243W123625']
+2016 07 31  11:42:43 begin getAppId: srcPath is /var/www/html/sublime-wspace/HelloApp
+2016 07 31  11:42:43 getAppId: appId is A6912436669280
+2016 07 31  11:42:43 begin getLoaderType
+2016 07 31  11:42:43 getLoaderType: appIdPath is /home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/custom-loader/A6912436669280/load.conf
+2016 07 31  11:42:43 getLoaderType: path not exiest, will use default appLoader
+2016 07 31  11:42:43 load: appId is A6912436669280
+2016 07 31  11:42:43 load: begin to sync machine HT243W123625
+2016 07 31  11:42:43 begin pushDirOrFileCmd from /var/www/html/sublime-wspace/HelloApp for appId A6912436669280
+2016 07 31  11:42:43 pushDirOrFileCmd: pushCmd is "/usr/bin/adb" -s HT243W123625 push "/var/www/html/sublime-wspace/tmp-apicloud-folder" /sdcard/UZMap/wgt/A6912436669280
+2016 07 31  11:42:53 pushDirOrFileCmd: outputMsg is 
+2016 07 31  11:42:53 pushDirOrFileCmd: pushDirOrFileCmd success!
+2016 07 31  11:42:53 begin pushStartInfo for appId A6912436669280
+2016 07 31  11:42:53 pushStartInfo: srcPath is "/home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/startInfo.txt"startInfo.txt
+2016 07 31  11:42:53 pushStartInfo: pushCmd is "/usr/bin/adb" -s HT243W123625 push "/home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/startInfo.txt" /sdcard/UZMap/A6965066952332/
+2016 07 31  11:42:55 pushStartInfo: outputMsg is 
+2016 07 31  11:42:55 pushStartInfo: pushStartInfo success!
+2016 07 31  11:42:55 begin getApploaderVersionCmd for device HT243W123625
+2016 07 31  11:42:55 getApploaderVersionCmd: cmd is "/usr/bin/adb" -s HT243W123625 shell dumpsys package com.apicloud.apploader
+2016 07 31  11:42:55 load: no appLoader found on the devices
+2016 07 31  11:42:55 loader: the isNeedInstall flag is True
+2016 07 31  11:42:55 begin installAppLoaderCmd
+2016 07 31  11:42:55 installAppLoaderCmd: cmd is "/usr/bin/adb" -s HT243W123625 install "/home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/apicloud-loader/load.apk"
+2016 07 31  11:56:27 installCmd: outputMsg is 
+2016 07 31  11:56:27 begin getApploaderVersionCmd for device HT243W123625
+2016 07 31  11:56:27 getApploaderVersionCmd: cmd is "/usr/bin/adb" -s HT243W123625 shell dumpsys package com.apicloud.apploader
+2016 07 31  11:56:28 installAppLoaderCmd: installAppLoader success!
+2016 07 31  11:56:28 begin startApploaderCmd for device HT243W123625
+2016 07 31  11:56:28 startApploaderCmd: pkg name is com.apicloud.apploader/com.uzmap.pkg.EntranceActivity
+2016 07 31  11:56:28 startApploaderCmd: cmd is "/usr/bin/adb" -s HT243W123625 shell am start -W -n com.apicloud.apploader/com.uzmap.pkg.EntranceActivity
+2016 07 31  11:56:30 startApploaderCmd: outputMsg is 
+2016 07 31  11:56:30 startApploaderCmd: startApploaderCmd success!
+2016 07 31  11:56:30 ******************************android sync complete******************************
+2016 07 31  16:44:26 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 07 31  17:03:53 ******************************begin android sync******************************
+2016 07 31  17:03:53 sync dir is /var/www/html/sublime-wspace/HelloApp
+2016 07 31  17:03:55 checkBasicInfo: current dir is /home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader
+2016 07 31  17:03:55 checkBasicInfo: adbCmd is "/usr/bin/adb"
+2016 07 31  17:03:55 checkBasicInfo: config content is {'version': '1.1.75', 'ignore': ['.svn', '.git'], 'packageName': 'com.apicloud.apploader', 'cmdLogType': ''}
+2016 07 31  17:03:55 begin getDeviceListCmd
+2016 07 31  17:03:55 getDeviceListCmd: cmd is "/usr/bin/adb" devices
+2016 07 31  17:03:58 getDeviceListCmd: output is 
+* daemon not running. starting it now on port 5037 *
+* daemon started successfully *
+List of devices attached 
+HT243W123625	device
+
+
+2016 07 31  17:03:58 getDeviceListCmd: deviceList is ['HT243W123625']
+2016 07 31  17:03:58 begin getAppId: srcPath is /var/www/html/sublime-wspace/HelloApp
+2016 07 31  17:03:58 getAppId: appId is A6912436669280
+2016 07 31  17:03:58 begin getLoaderType
+2016 07 31  17:03:58 getLoaderType: appIdPath is /home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/custom-loader/A6912436669280/load.conf
+2016 07 31  17:03:58 getLoaderType: path not exiest, will use default appLoader
+2016 07 31  17:03:58 load: appId is A6912436669280
+2016 07 31  17:03:58 load: begin to sync machine HT243W123625
+2016 07 31  17:03:58 begin pushDirOrFileCmd from /var/www/html/sublime-wspace/HelloApp for appId A6912436669280
+2016 07 31  17:03:58 pushDirOrFileCmd: pushCmd is "/usr/bin/adb" -s HT243W123625 push "/var/www/html/sublime-wspace/tmp-apicloud-folder" /sdcard/UZMap/wgt/A6912436669280
+2016 07 31  17:04:08 pushDirOrFileCmd: outputMsg is 
+2016 07 31  17:04:08 pushDirOrFileCmd: pushDirOrFileCmd success!
+2016 07 31  17:04:08 begin pushStartInfo for appId A6912436669280
+2016 07 31  17:04:08 pushStartInfo: srcPath is "/home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/startInfo.txt"startInfo.txt
+2016 07 31  17:04:08 pushStartInfo: pushCmd is "/usr/bin/adb" -s HT243W123625 push "/home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/startInfo.txt" /sdcard/UZMap/A6965066952332/
+2016 07 31  17:04:10 pushStartInfo: outputMsg is 
+2016 07 31  17:04:10 pushStartInfo: pushStartInfo success!
+2016 07 31  17:04:10 begin getApploaderVersionCmd for device HT243W123625
+2016 07 31  17:04:10 getApploaderVersionCmd: cmd is "/usr/bin/adb" -s HT243W123625 shell dumpsys package com.apicloud.apploader
+2016 07 31  17:04:11 begin compareAppLoaderVer 1.1.75 1.1.75
+2016 07 31  17:04:11 compareAppLoaderVer: no need to update appLoader.
+2016 07 31  17:04:11 loader: the isNeedInstall flag is False
+2016 07 31  17:04:11 begin stopApploaderCmd for device HT243W123625
+2016 07 31  17:04:11 stopApploaderCmd: cmd is "/usr/bin/adb" -s HT243W123625 shell am force-stop com.apicloud.apploader
+2016 07 31  17:04:11 stopApploaderCmd: stopApploaderCmd success!
+2016 07 31  17:04:12 begin startApploaderCmd for device HT243W123625
+2016 07 31  17:04:12 startApploaderCmd: pkg name is com.apicloud.apploader/com.uzmap.pkg.EntranceActivity
+2016 07 31  17:04:12 startApploaderCmd: cmd is "/usr/bin/adb" -s HT243W123625 shell am start -W -n com.apicloud.apploader/com.uzmap.pkg.EntranceActivity
+2016 07 31  17:04:14 startApploaderCmd: outputMsg is 
+2016 07 31  17:04:14 startApploaderCmd: startApploaderCmd success!
+2016 07 31  17:04:14 ******************************android sync complete******************************
+2016 07 31  17:10:59 ******************************begin android sync******************************
+2016 07 31  17:10:59 sync dir is /var/www/html/sublime-wspace/HelloApp
+2016 07 31  17:11:00 checkBasicInfo: current dir is /home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader
+2016 07 31  17:11:00 checkBasicInfo: adbCmd is "/usr/bin/adb"
+2016 07 31  17:11:00 checkBasicInfo: config content is {'version': '1.1.75', 'ignore': ['.svn', '.git'], 'packageName': 'com.apicloud.apploader', 'cmdLogType': ''}
+2016 07 31  17:11:00 begin getDeviceListCmd
+2016 07 31  17:11:00 getDeviceListCmd: cmd is "/usr/bin/adb" devices
+2016 07 31  17:11:00 getDeviceListCmd: output is 
+List of devices attached 
+HT243W123625	device
+
+
+2016 07 31  17:11:00 getDeviceListCmd: deviceList is ['HT243W123625']
+2016 07 31  17:11:00 begin getAppId: srcPath is /var/www/html/sublime-wspace/HelloApp
+2016 07 31  17:11:00 getAppId: appId is A6912436669280
+2016 07 31  17:11:00 begin getLoaderType
+2016 07 31  17:11:00 getLoaderType: appIdPath is /home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/custom-loader/A6912436669280/load.conf
+2016 07 31  17:11:00 getLoaderType: path not exiest, will use default appLoader
+2016 07 31  17:11:00 load: appId is A6912436669280
+2016 07 31  17:11:00 load: begin to sync machine HT243W123625
+2016 07 31  17:11:00 begin pushDirOrFileCmd from /var/www/html/sublime-wspace/HelloApp for appId A6912436669280
+2016 07 31  17:11:00 pushDirOrFileCmd: pushCmd is "/usr/bin/adb" -s HT243W123625 push "/var/www/html/sublime-wspace/tmp-apicloud-folder" /sdcard/UZMap/wgt/A6912436669280
+2016 07 31  17:11:10 pushDirOrFileCmd: outputMsg is 
+2016 07 31  17:11:10 pushDirOrFileCmd: pushDirOrFileCmd success!
+2016 07 31  17:11:10 begin pushStartInfo for appId A6912436669280
+2016 07 31  17:11:10 pushStartInfo: srcPath is "/home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/startInfo.txt"startInfo.txt
+2016 07 31  17:11:10 pushStartInfo: pushCmd is "/usr/bin/adb" -s HT243W123625 push "/home/ibstelix/.config/sublime-text-3/Packages/APICloudLoader/appLoader/startInfo.txt" /sdcard/UZMap/A6965066952332/
+2016 07 31  17:11:11 pushStartInfo: outputMsg is 
+2016 07 31  17:11:11 pushStartInfo: pushStartInfo success!
+2016 07 31  17:11:11 begin getApploaderVersionCmd for device HT243W123625
+2016 07 31  17:11:11 getApploaderVersionCmd: cmd is "/usr/bin/adb" -s HT243W123625 shell dumpsys package com.apicloud.apploader
+2016 07 31  17:11:13 begin compareAppLoaderVer 1.1.75 1.1.75
+2016 07 31  17:11:13 compareAppLoaderVer: no need to update appLoader.
+2016 07 31  17:11:13 loader: the isNeedInstall flag is False
+2016 07 31  17:11:13 begin stopApploaderCmd for device HT243W123625
+2016 07 31  17:11:13 stopApploaderCmd: cmd is "/usr/bin/adb" -s HT243W123625 shell am force-stop com.apicloud.apploader
+2016 07 31  17:11:13 stopApploaderCmd: stopApploaderCmd success!
+2016 07 31  17:11:14 begin startApploaderCmd for device HT243W123625
+2016 07 31  17:11:14 startApploaderCmd: pkg name is com.apicloud.apploader/com.uzmap.pkg.EntranceActivity
+2016 07 31  17:11:14 startApploaderCmd: cmd is "/usr/bin/adb" -s HT243W123625 shell am start -W -n com.apicloud.apploader/com.uzmap.pkg.EntranceActivity
+2016 07 31  17:11:16 startApploaderCmd: outputMsg is 
+2016 07 31  17:11:16 startApploaderCmd: startApploaderCmd success!
+2016 07 31  17:11:16 ******************************android sync complete******************************
+2016 08 01  07:03:33 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 01  07:03:37 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 01  07:04:25 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 01  07:11:02 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 01  07:11:29 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 01  07:13:00 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 01  07:13:14 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 01  07:15:03 StartWifysyncAppCommand cmd : wine "/home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/APICloudWiFiSync.exe" -start
+2016 08 01  12:24:04 StartWifysyncAppCommand cmd : wine "/home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/APICloudWiFiSync.exe" -start
+2016 08 01  15:15:25 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 01  15:15:45 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 01  15:15:55 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 01  15:16:33 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 01  15:16:46 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 01  15:33:49 error detected while connecting with JsonServer!python interpreter: pythonconnecting port: 54756check https://github.com/DamnWidget/anaconda/wiki/Connection-Refused-Information
+2016 08 01  15:33:49 [Errno 111] Connection refused
+2016 08 01  15:33:49 Traceback (most recent call last):
+  File "/home/ibstelix/.config/sublime-text-3/Packages/Anaconda/anaconda_lib/worker.py", line 191, in start
+    self.client = AsynClient(self.available_port)
+  File "/home/ibstelix/.config/sublime-text-3/Packages/Anaconda/anaconda_lib/jsonclient.py", line 38, in __init__
+    EventHandler.__init__(self, (host, port))
+  File "/home/ibstelix/.config/sublime-text-3/Packages/Anaconda/anaconda_lib/ioloop.py", line 107, in __init__
+    self.sock.connect(address)
+ConnectionRefusedError: [Errno 111] Connection refused
+2016 08 01  15:33:50 Registering handler with address ('localhost', 54756)
+2016 08 01  15:36:52 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 06  15:02:02 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 06  16:35:24 error detected while connecting with JsonServer!python interpreter: pythonconnecting port: 42642check https://github.com/DamnWidget/anaconda/wiki/Connection-Refused-Information
+2016 08 06  16:35:24 [Errno 111] Connection refused
+2016 08 06  16:35:24 Traceback (most recent call last):
+  File "/home/ibstelix/.config/sublime-text-3/Packages/Anaconda/anaconda_lib/worker.py", line 191, in start
+    self.client = AsynClient(self.available_port)
+  File "/home/ibstelix/.config/sublime-text-3/Packages/Anaconda/anaconda_lib/jsonclient.py", line 38, in __init__
+    EventHandler.__init__(self, (host, port))
+  File "/home/ibstelix/.config/sublime-text-3/Packages/Anaconda/anaconda_lib/ioloop.py", line 107, in __init__
+    self.sock.connect(address)
+ConnectionRefusedError: [Errno 111] Connection refused
+2016 08 06  16:35:24 Registering handler with address ('localhost', 42642)
+2016 08 06  21:09:26 anaconda: dark css theme loaded
+2016 08 06  21:09:27 anaconda: light css theme loaded
+2016 08 06  23:02:11 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 06  23:02:26 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  04:26:25 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  04:27:01 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  04:42:29 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  04:46:00 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  04:49:35 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  04:53:12 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  04:53:48 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  04:54:22 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  05:05:19 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  05:05:52 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  05:06:00 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  05:06:11 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  05:10:19 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  05:11:54 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  05:12:19 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  05:12:44 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  05:12:51 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  05:13:06 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  05:13:34 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  05:13:46 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  05:14:16 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  05:22:36 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  05:23:08 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  05:23:18 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  05:31:00 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  05:31:24 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  05:31:50 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  05:41:46 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  05:43:03 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  05:43:22 StartWifysyncAppCommand cmd : wine "/home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/APICloudWiFiSync.exe" -start
+2016 08 07  05:43:51 StartWifysyncAppCommand cmd : wine "/home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/APICloudWiFiSync.exe" -start
+2016 08 07  05:44:13 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  05:44:32 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  06:08:36 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  06:10:27 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  06:12:11 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  06:13:21 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  06:14:22 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  06:15:22 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  06:15:37 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  06:16:18 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  06:16:57 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  06:34:25 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  06:34:57 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  06:35:29 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  09:38:01 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  09:39:07 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  09:40:24 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  09:41:10 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  09:42:59 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  10:20:59 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  10:21:21 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  10:23:08 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  10:25:26 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  10:25:39 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  10:27:42 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  10:28:09 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  10:29:45 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  10:30:16 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  10:30:58 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  11:48:51 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  12:11:01 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  12:11:10 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  12:12:08 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  12:58:44 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  13:01:32 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  13:02:05 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  13:04:15 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  13:04:18 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  13:07:26 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  13:08:03 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  13:08:08 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  13:08:17 StopWifysyncAppCommand cmd : wine "/home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/APICloudWiFiSync.exe" -stop
+2016 08 07  13:08:40 StopWifysyncAppCommand cmd : wine "/home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/APICloudWiFiSync.exe" -stop
+2016 08 07  13:38:44 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  13:39:38 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  13:45:28 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  13:48:51 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  13:52:06 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  13:53:00 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  13:53:34 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  13:54:45 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  13:58:30 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  14:00:12 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  14:06:30 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  14:06:47 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  14:10:37 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  14:11:28 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  14:12:15 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  14:12:20 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  14:14:12 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  14:14:32 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  14:15:07 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  14:22:42 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  14:23:09 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  14:23:16 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  14:23:33 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  14:24:33 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  15:46:46 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  16:04:41 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  16:06:40 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  18:01:28 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 07  18:01:44 StartWifysyncAppCommand cmd : wine "/home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/APICloudWiFiSync.exe" -start
+======
+
+2016 08 10  17:45:46 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 10  17:45:48 error detected while connecting with JsonServer!python interpreter: pythonconnecting port: 35770check https://github.com/DamnWidget/anaconda/wiki/Connection-Refused-Information
+2016 08 10  17:45:48 [Errno 111] Connection refused
+2016 08 10  17:45:48 Traceback (most recent call last):
+  File "/home/ibstelix/.config/sublime-text-3/Packages/Anaconda/anaconda_lib/worker.py", line 191, in start
+    self.client = AsynClient(self.available_port)
+  File "/home/ibstelix/.config/sublime-text-3/Packages/Anaconda/anaconda_lib/jsonclient.py", line 38, in __init__
+    EventHandler.__init__(self, (host, port))
+  File "/home/ibstelix/.config/sublime-text-3/Packages/Anaconda/anaconda_lib/ioloop.py", line 107, in __init__
+    self.sock.connect(address)
+ConnectionRefusedError: [Errno 111] Connection refused
+2016 08 10  17:45:49 error detected while connecting with JsonServer!python interpreter: pythonconnecting port: 35770check https://github.com/DamnWidget/anaconda/wiki/Connection-Refused-Information
+2016 08 10  17:45:49 [Errno 111] Connection refused
+2016 08 10  17:45:49 Traceback (most recent call last):
+  File "/home/ibstelix/.config/sublime-text-3/Packages/Anaconda/anaconda_lib/worker.py", line 191, in start
+    self.client = AsynClient(self.available_port)
+  File "/home/ibstelix/.config/sublime-text-3/Packages/Anaconda/anaconda_lib/jsonclient.py", line 38, in __init__
+    EventHandler.__init__(self, (host, port))
+  File "/home/ibstelix/.config/sublime-text-3/Packages/Anaconda/anaconda_lib/ioloop.py", line 107, in __init__
+    self.sock.connect(address)
+ConnectionRefusedError: [Errno 111] Connection refused
+2016 08 10  17:46:04 Registering handler with address ('localhost', 35770)
+2016 08 10  18:00:12 anaconda: dark css theme loaded
+2016 08 10  18:00:12 anaconda: light css theme loaded
+2016 08 10  18:38:51 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 10  18:38:57 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 11  14:33:53 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 11  14:34:01 error detected while connecting with JsonServer!python interpreter: pythonconnecting port: 53581check https://github.com/DamnWidget/anaconda/wiki/Connection-Refused-Information
+2016 08 11  14:34:01 [Errno 111] Connection refused
+2016 08 11  14:34:01 Traceback (most recent call last):
+  File "/home/ibstelix/.config/sublime-text-3/Packages/Anaconda/anaconda_lib/worker.py", line 191, in start
+    self.client = AsynClient(self.available_port)
+  File "/home/ibstelix/.config/sublime-text-3/Packages/Anaconda/anaconda_lib/jsonclient.py", line 38, in __init__
+    EventHandler.__init__(self, (host, port))
+  File "/home/ibstelix/.config/sublime-text-3/Packages/Anaconda/anaconda_lib/ioloop.py", line 107, in __init__
+    self.sock.connect(address)
+ConnectionRefusedError: [Errno 111] Connection refused
+2016 08 11  14:34:02 Registering handler with address ('localhost', 53581)
+2016 08 11  15:01:12 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 11  15:01:47 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info
+2016 08 11  15:03:05 wifi_config_file is /home/ibstelix/.config/sublime-text-3/Packages/APICloudWifiSync/tools/config_info

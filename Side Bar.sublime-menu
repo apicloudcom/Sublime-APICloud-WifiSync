@@ -5,30 +5,107 @@
 			{
 				"caption": "安装服务",
 				"command": "install_wifysync_app", "args": {"dirs": []}
+			},
+			{
+				"caption": "Service Installation",
+				"command": "en_install_wifysync_app", "args": {"dirs": []}
+			},
+			{
+				"caption": "Installation du service",
+				"command": "fr_install_wifysync_app", "args": {"dirs": []}
 			},	    	
 			{
 				"caption": "启动服务",
 				"command": "start_wifysync_app", "args": {"dirs": []}
 			},
 			{
+				"caption": "nt_Start service",
+				"command": "en_start_wifysync_app", "args": {"dirs": []}
+			},{
+				"caption": "Demarrer le service",
+				"command": "fr_start_wifysync_app", "args": {"dirs": []}
+			},
+			{
 				"caption": "查看WiFi真机同步服务器地址",
 				"command": "get_wifisync_info", "args": {"dirs": []}
+			},
+			{
+				"caption": "Check the WiFi synchronization server details",
+				"command": "en_get_wifisync_info", "args": {"dirs": []}
+			},
+			{
+				"caption": "Info du serveur de synchronisation",
+				"command": "fr_get_wifisync_info", "args": {"dirs": []}
 			},
 			{
 				"caption": "停止服务",
 				"command": "stop_wifysync_app", "args": {"dirs": []}
 			},
 			{
+				"caption": "Stop service",
+				"command": "en_stop_wifysync_app", "args": {"dirs": []}
+			},
+			{
+				"caption": "Arreter le service",
+				"command": "fr_stop_wifysync_app", "args": {"dirs": []}
+			},
+			{
 				"caption": "启动服务",
 				"command": "mac_start_wifysync_app", "args": {"dirs": []}
 			},
 			{
+				"caption": "Start service",
+				"command": "en_mac_start_wifysync_app", "args": {"dirs": []}
+			},
+			{
+				"caption": "Demarrer le service",
+				"command": "fr_mac_start_wifysync_app", "args": {"dirs": []}
+			},
+			{
 				"caption": "停止服务",
 				"command": "mac_stop_wifysync_app", "args": {"dirs": []}
-			}
+			},
+			{
+				"caption": "Stop service",
+				"command": "en_mac_stop_wifysync_app", "args": {"dirs": []}
+			},
+			{
+				"caption": "Arreter le service",
+				"command": "fr_mac_stop_wifysync_app", "args": {"dirs": []}
+			},
+			{
+				"caption": "ln_启动服务",
+				"command": "linux_start_wifysync_app", "args": {"dirs": []}
+			},
+			{
+				"caption": "ln_Start service",
+				"command": "en_linux_start_wifysync_app", "args": {"dirs": []}
+			},
+			{
+				"caption": "ln_Demarrer le service",
+				"command": "fr_linux_start_wifysync_app", "args": {"dirs": []}
+			},
+			{
+				"caption": "lun_停止服务",
+				"command": "linux_stop_wifysync_app", "args": {"dirs": []}
+			},
+			{
+				"caption": "ln_Stop service",
+				"command": "en_linux_stop_wifysync_app", "args": {"dirs": []}
+			},
+			{
+				"caption": "ln_Arreter le service",
+				"command": "fr_linux_stop_wifysync_app", "args": {"dirs": []}
+			}	
 		]
 	},
 	{ "caption": "WiFi真机同步..", "command": "apicloud_wifi_sync", "args": {"dirs": []} },
+	{ "caption": "WiFi-Synchronize a real device..", "command": "en_apicloud_wifi_sync", "args": {"dirs": []} },
+	{ "caption": "WiFi-Synchroniser un terminal reel..", "command": "fr_apicloud_wifi_sync", "args": {"dirs": []} },	
 	{ "caption": "WiFi全量真机同步..", "command": "apicloud_wifi_syncall", "args": {"dirs": []} },
-	{ "caption": "WiFi真机预览..", "command": "apicloud_wifi_preview", "args": {"files": []} }
+	{ "caption": "WiFi-Sync all real devices..", "command": "en_apicloud_wifi_syncall", "args": {"dirs": []} },
+	{ "caption": "WiFi-Synchroniser tous les terminaux..", "command": "fr_apicloud_wifi_syncall", "args": {"dirs": []} },	
+	{ "caption": "WiFi真机预览..", "command": "apicloud_wifi_preview", "args": {"files": []} },
+	{ "caption": "en_WiFi真机预览..", "command": "apicloud_wifi_preview", "args": {"files": []} },
+	{ "caption": "fr_WiFi真机预览..", "command": "apicloud_wifi_preview", "args": {"files": []} },	
 ]
